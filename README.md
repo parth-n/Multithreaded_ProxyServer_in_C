@@ -33,5 +33,6 @@ To compile the project, run the following command:
 ```sh 
 make
 
-
+#Running the Proxy Server
+#To run the proxy server, use the following command :
 ./proxy <port_number>
