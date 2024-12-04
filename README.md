@@ -30,6 +30,8 @@ This project implements a multi-threaded proxy server in C that efficiently hand
 
 To compile the project, run the following command:
 
-```sh
+```sh 
 make
 
+
+./proxy <port_number>
